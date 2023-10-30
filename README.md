@@ -1,0 +1,10 @@
+# .gitignore
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
